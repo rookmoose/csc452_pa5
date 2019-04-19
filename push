@@ -1,0 +1,1 @@
+scp ./* netid@lec.cs.arizona.edu:~/Desktop/452_pa6/
